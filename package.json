@@ -1,5 +1,5 @@
 {
-  "name": "my-ts-example",
+  "name": "@oshili/my-ts-example",
   "version": "1.0.0",
   "description": "",
   "main": "dist/cjs/index.js",
